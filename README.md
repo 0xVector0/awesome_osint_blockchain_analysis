@@ -263,6 +263,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | Link | Description |
 | --- | --- |
 | [Chainabuse](https://www.chainabuse.com/) | Report a cryptocurrency hack or scam across multiple blockchains and search addresses and domains to see if they are connected to any fraudulent activity. It supports BTC, ETH, SOL and ADA |
+| [Iris](https://iriscan.app/) | Wallet analysis and fund tracing: who funded an address, who it deals with and where the money went, including through mixers (Privacy Cash, Cloak), bridges and instant swaps. Boards can be shared as case reports. It supports SOL, ETH and other EVM chains, BTC and TRX |
 
 ### SOL Other
 | Link | Description |
